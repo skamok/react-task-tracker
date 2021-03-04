@@ -1,3 +1,5 @@
+// https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3416s&ab_channel=TraversyMedia
+// не доделан до конца
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
